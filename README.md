@@ -1,5 +1,5 @@
 
-# Collection Laravel helper functions
+# Collection of Laravel helper functions
 
 
 ## Installation
