@@ -1,7 +1,6 @@
-
-![example workflow](https://github.com/shegunbabs/laravel-helpers/actions/workflows/push_workflow.yml/badge.svg)
-
 # Collection Laravel helper functions
+
+![example workflow](https://github.com/shegunbabs/laravel-helpers/actions/workflows/build.yml/badge.svg)
 
 
 ## Installation
