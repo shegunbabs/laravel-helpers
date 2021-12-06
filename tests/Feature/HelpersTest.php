@@ -44,7 +44,7 @@ test('dump_sql', function ()
 
 test('emoji', function ()
 {
-
+    $this->assertEquals('😀', emoji('CHARACTER_GRINNING_FACE'));
 });
 
 
@@ -62,5 +62,8 @@ test('object', function()
 
 test('ordinal', function()
 {
-
+    $this->assertEquals(ordinal(1), '1st');
+    $this->assertEquals(ordinal(2), '2nd');
+    $this->assertEquals(ordinal(3), '3rd');
+    $this->assertEquals(ordinal(4), '4th');
 });
